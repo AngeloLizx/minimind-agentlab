@@ -1,0 +1,2 @@
+{"task_id":"calculator_fix_divide_zero","prompt":"Make divide() raise ValueError when the divisor is zero.","repo_id":"calculator_app"}
+{"task_id":"text_utils_empty_slug","prompt":"Make slugify return 'untitled' for blank input.","repo_id":"text_utils"}

@@ -1,0 +1,6 @@
+pytest>=7.4,<9
+fastapi>=0.110,<1
+uvicorn>=0.29,<1
+streamlit>=1.32,<2
+pydantic>=2.6,<3
+openai>=1.30,<3
